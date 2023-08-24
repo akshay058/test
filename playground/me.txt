@@ -1,5 +1,0 @@
-{{#user}}
-Name: Akshay Jain
-Skills: Core Java, HTML, CSS, Bootstrap, JavaScript, Node.js, MongoDB, React.js, Sql , My-Office, Manual Testing, HP-ALM , JIRA 
-Email: jainakshay058@gmail.com
-{{/user}}
